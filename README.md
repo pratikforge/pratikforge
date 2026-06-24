@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🔭 I'm currently working on **Agentic Engineering**<br>• 👥 I'm looking to collaborate on **real-world useful project ideas** — things that actually solve problems, not just demo toys<br>• 🤝 I'm looking for help with **responsibly coding with AI** to ship production-ready products — not just vibes, but solid, scalable builds<br>• 🌱 I'm currently learning **Agent Memory & Skills** — RagGRAPH, Memory Vaults, DAG Pipelines, and how agents actually retain context at scale<br>• 💬 Ask me about **my ongoing projects or starting a collab** — if you've got an idea worth building, let's talk<br>• ⚡ Fun fact: I'm just as good at **presenting** a project as I am at building it — pitches, and demos included
+• 🔭 I'm currently working on **Agentic Engineering**<br>• 👥 I'm looking to collaborate on **real-world useful project ideas** — things that actually solve problems, not just demo toys<br>• 🌱 I'm currently learning **Agent Memory & Skills** — RagGRAPH, Memory Vaults, DAG Pipelines, and how agents actually retain context at scale
 
 
 ## 🌐 Socials:
