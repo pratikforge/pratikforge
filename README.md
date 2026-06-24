@@ -14,11 +14,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pratikforge&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratikforge&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=pratikforge&icon=0&color=0)](https://visitcount.itsvg.in)
