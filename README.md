@@ -2,7 +2,7 @@
 • 🔭 I'm currently working on **Agentic Engineering**<br>• 👥 I'm looking to collaborate on **real-world useful project ideas** — things that actually solve problems, not just demo toys<br>• 🌱 I'm currently learning **Agent Memory & Skills** — RagGRAPH, Memory Vaults, DAG Pipelines, and how agents actually retain context at scale
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikyadav21) 
 
 # 💻 Tech Stack:
