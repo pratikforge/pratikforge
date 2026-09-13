@@ -7,5 +7,5 @@
 </a>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratikforge/pratikforge/main/github-jet.svg?v=1789245858993" alt="GitHub Jet Heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/pratikforge/pratikforge/main/github-jet.svg?v=1789333200090" alt="GitHub Jet Heatmap" width="100%" />
 </p>
