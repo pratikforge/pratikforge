@@ -50,7 +50,7 @@
 <!-- Retro Arcade Top HUD -->
 <g id="arcade-hud">
   <!-- SCORE -->
-  <text x="24" y="32"><tspan class="hud-label-gold">SCORE: </tspan><tspan class="hud-val-gold">1,784,000 PTS</tspan></text>
+  <text x="24" y="32"><tspan class="hud-label-gold">SCORE: </tspan><tspan class="hud-val-gold">1,860,000 PTS</tspan></text>
 
   <!-- RANK / LEVEL -->
   <text x="320" y="32"><tspan class="hud-label-cyan">RANK: </tspan><tspan class="hud-val-cyan">LVL 42 · AIML ARCHITECT</tspan></text>
@@ -484,13 +484,13 @@
   <rect x="1004" y="142" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>28 power units on 2026-09-02</title></rect>
   <rect x="1004" y="160" width="14" height="14" rx="2.5" fill="#40c463" stroke="#34D399" stroke-width="0.35"><title>53 power units on 2026-09-03</title></rect>
   <rect x="1004" y="178" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>15 power units on 2026-09-04</title></rect>
-  <rect x="1004" y="196" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>35 power units on 2026-09-05</title></rect>
+  <rect x="1004" y="196" width="14" height="14" rx="2.5" fill="#40c463" stroke="#34D399" stroke-width="0.35"><title>60 power units on 2026-09-05</title></rect>
   <rect x="1022" y="88" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>4 power units on 2026-09-06</title></rect>
   <rect x="1022" y="106" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>1 power units on 2026-09-07</title></rect>
   <rect x="1022" y="124" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>2 power units on 2026-09-08</title></rect>
   <rect x="1022" y="142" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>2 power units on 2026-09-09</title></rect>
-  <rect x="1022" y="160" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>4 power units on 2026-09-10</title></rect>
-  <rect x="1022" y="178" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>20 power units on 2026-09-11</title></rect>
+  <rect x="1022" y="160" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>6 power units on 2026-09-10</title></rect>
+  <rect x="1022" y="178" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>38 power units on 2026-09-11</title></rect>
   <rect x="1022" y="196" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>33 power units on 2026-09-12</title></rect>
   <rect x="1040" y="88" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>24 power units on 2026-09-13</title></rect>
   <rect x="1040" y="106" width="14" height="14" rx="2.5" fill="#40c463" stroke="#34D399" stroke-width="0.35"><title>64 power units on 2026-09-14</title></rect>
@@ -505,8 +505,8 @@
   <rect x="1058" y="88" width="14" height="14" rx="2.5" fill="#40c463" stroke="#34D399" stroke-width="0.35"><title>60 power units on 2026-09-20</title></rect>
   <rect x="1058" y="106" width="14" height="14" rx="2.5" fill="#40c463" stroke="#34D399" stroke-width="0.35"><title>59 power units on 2026-09-21</title></rect>
   <rect x="1058" y="124" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>11 power units on 2026-09-22</title></rect>
-  <rect x="1058" y="142" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>22 power units on 2026-09-23</title></rect>
-  <rect x="1058" y="160" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on untracked</title></rect>
+  <rect x="1058" y="142" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>23 power units on 2026-09-23</title></rect>
+  <rect x="1058" y="160" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#34D399" stroke-width="0.35"><title>30 power units on 2026-09-24</title></rect>
   <rect x="1058" y="178" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on untracked</title></rect>
   <rect x="1058" y="196" width="14" height="14" rx="2.5" fill="#0F172A" stroke="#1E293B" stroke-width="0.75"><title>0 power units on untracked</title></rect>
 </g>
