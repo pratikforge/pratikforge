@@ -1,3 +1,8 @@
-CONTEXT.md
-*.py
-dist/
+__pycache__/
+*.pyc
+stats.json
+.env
+.env.*
+*.mp4
+*.log
+preview*.html
